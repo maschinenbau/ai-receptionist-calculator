@@ -4,4 +4,3 @@
 
 [build.environment]
   NODE_VERSION = "16.14.0"
-  NODE_OPTIONS = "--openssl-legacy-provider"
